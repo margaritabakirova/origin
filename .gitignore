@@ -1,0 +1,8 @@
+#Ignore all file named 1.txt
+1.txt
+#Ignore (generated) html files
+*.html
+#Ignore archives
+*.zip
+#Ignore tmp files
+*.tmp
