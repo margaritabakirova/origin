@@ -4,5 +4,6 @@
 *.html
 #Ignore archives
 *.zip
+*.db
 #Ignore tmp files
 *.tmp
